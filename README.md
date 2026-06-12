@@ -8,3 +8,5 @@ A collection of beginner Python projects to practice Python fundamentals.
 2.Even_Odd Finder
 
 3.Largest no.
+
+4.Factorial
