@@ -9,4 +9,10 @@ A collection of beginner Python projects to practice Python fundamentals.
 
 3.Largest no.
 
-4.Factorial
+4.Multiplication_Table
+
+5.Factorial
+
+6.Prime_number_checker
+
+7.Palindrome_checker
