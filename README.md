@@ -16,3 +16,5 @@ A collection of beginner Python projects to practice Python fundamentals.
 6.Prime_number_checker
 
 7.Palindrome_checker
+
+8.Leap_Year_Checker
